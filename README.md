@@ -26,12 +26,11 @@ O desenvolvimento deste projeto foi muito divertido, pois me permitiu colocar em
 
 ## 📜 Como Usar
 
-1. Acesse a página deste código .
-2. Abra o arquivo `index.html` no seu navegador.
-3. Digite um texto na área designada.
-4. Clique em **Criptografar** para codificar o texto.
-5. Clique em **Descriptografar** para decodificar o texto.
-6. Use o botão **Copiar** para copiar o texto resultante para a área de transferência.
+1. Acesse a página deste código que está em About.
+2. Digite um texto na área designada.
+3. Clique em **Criptografar** para codificar o texto.
+4. Clique em **Descriptografar** para decodificar o texto.
+5. Use o botão **Copiar** para copiar o texto resultante para a área de transferência.
 
 ## 📚 Curso
 
